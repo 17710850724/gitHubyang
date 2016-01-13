@@ -16,6 +16,20 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"熊二是熊");
+    NSLog(@"熊二刚再瞪我");
+    NSLog(@"熊二刚再笑");
+    NSLog(@"熊二还在笑");
+    NSLog(@"熊二依然在笑");
+    NSLog(@"完了，熊二笑停不下来了");
+    NSLog(@"以上是熊二的日常犯二生活");
+
+
+
+
+
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
